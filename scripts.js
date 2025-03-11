@@ -4,12 +4,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const text = document.querySelector('#fade-text');
 
     const texts = [
-        "In time.",
-        "At the precipice of dawn will you hear it?",
-        "To see beyond the stars, it is ethereal.",
+        "In Time, be that it is used wisely.",
+        "At the precipice of dawn, what will you choose?",
+        "To The Farthest Star, and Beyond.",
         "Relentless we must be.",
         "Peer beyond the veil.",
-        "There is always a light."
+        "There is always a light.",
+        "A strand's neglect births mountainous upheaval.",
+        "You are the independent variable.",
+        "Wait. and Witness."
     ];
 
     let lastTextIndex = -1;
